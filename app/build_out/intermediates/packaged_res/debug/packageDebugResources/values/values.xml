@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="cream">#F7F4EC</color>
+    <color name="gold">#C9A227</color>
+    <color name="green_dark">#0F3D2E</color>
+    <color name="green_primary">#1B6B4A</color>
+    <color name="ic_launcher_background">#FAF3ED</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">معهد المقرئ</string>
+    <style name="Theme.Omran" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/green_dark</item>
+        <item name="android:navigationBarColor">@color/green_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+    </style>
+    <style name="Theme.Omran.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/green_dark</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher</item>
+        <item name="windowSplashScreenIconBackgroundColor">@color/green_dark</item>
+        <item name="postSplashScreenTheme">@style/Theme.Omran</item>
+    </style>
+</resources>

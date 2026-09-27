@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.omran.quran.app-mergeReleaseResources-64:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PeGaNox\\.gradle\\caches\\8.14\\transforms\\f5eb04ab7722c3c3da25ae37b750277b\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

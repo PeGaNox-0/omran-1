@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color cream
+color gold
+color green_dark
+color green_primary
+color ic_launcher_background
+color white
+drawable ic_launcher
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_stat_omran
+drawable institute_logo
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Omran
+style Theme.Omran.Splash
+xml file_paths
+xml locales_config
